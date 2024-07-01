@@ -1,0 +1,4 @@
+repository "Tarnished Tactics@MGettaGamer@cloud"
+  path "/"
+    br "/main"
+    co "/main"
